@@ -1,0 +1,4 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RJW Kurin 1.1.3\1.2\Source\Kurin\obj\Debug\Kurin.csprojAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RJW Kurin 1.1.3\1.2\Source\Kurin\obj\Debug\Kurin.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RJW Kurin 1.1.3\1.2\Source\Kurin\obj\Debug\Kurin.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RJW Kurin 1.1.3\1.2\Source\Kurin\obj\Debug\Kurin.pdb

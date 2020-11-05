@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-	<identifier>Kurin HAR Edition</identifier>
-	<version>1.0.9</version>
+	<identifier>Kurin RJW Edition</identifier>
+	<version>1.1.5</version>
 	<dependencies>
 		<li>erdelf.HumanoidAlienRaces</li>
-		<li>Dalrae.GaramAdvancedApparel</li>
 	</dependencies>
 	<incompatibleWith />
 	<loadAfter>
 		<li>erdelf.HumanoidAlienRaces</li>
-		<li>Dalrae.GaramAdvancedApparel</li>
 	</loadAfter>
 	<suggests>
 	</suggests>
